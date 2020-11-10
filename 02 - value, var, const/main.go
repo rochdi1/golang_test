@@ -5,7 +5,6 @@ import "fmt"
 func main() {
 	////////////////////////////////////
 	// Testing print different values //
-	//https://www.youtube.com/watch?v=ApKpXwcW7bE&list=PLpxoM9UzFN77FpoSegTEKPZ512YG3rdQv&index=12//
 	////////////////////////////////////
 
 	// string
